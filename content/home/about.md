@@ -16,18 +16,15 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Molecular, Cellular, and Molecular Biology"
   institution = "The Ohio State University"
   year = 2017
-  degree = Ph.D.
+ 
 
 [[education.courses]]
+  course = "BSc in Integrated Biology"  
   institution = "Ohio University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
