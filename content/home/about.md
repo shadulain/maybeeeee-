@@ -18,6 +18,7 @@ weight = 5
 [[education.courses]]
   institution = "The Ohio State University"
   year = 2017
+  degree = Ph.D.
 
 [[education.courses]]
   institution = "Ohio University"
@@ -33,5 +34,3 @@ weight = 5
 # Biography
 
 Tami Coursey is a post-doctoral research fellow at the NIAID within NIH. She is currently studying human papillomavirus tethering and maintenance replication.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
