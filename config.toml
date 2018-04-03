@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "National Institute of Allergy and Infectious Disease", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "feet on white cliffs.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "feet on white cliffs.jpg" in maybeeeee-/feet on white cliffs.jpg  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "tc299805@ohio.edu"
   address = "Bldg 33 Rm 3W20, Bethesda, MD"
   phone = "888 888 88 88"
